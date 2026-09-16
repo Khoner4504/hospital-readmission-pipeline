@@ -219,3 +219,5 @@ __marimo__/
 data/raw/
 .env
 *.pbix.bak
+.venv/
+.DS_Store
