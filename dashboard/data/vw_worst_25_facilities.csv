@@ -1,0 +1,26 @@
+national_rank,facility_id,facility_name,city,state,hospital_type,worst_condition,worst_excess_ratio,avg_excess_ratio,reported_measures,penalized_measures
+1,360072,FAIRFIELD MEDICAL CENTER,LANCASTER,OH,Acute Care Hospitals,Hip/knee replacement,1.6297,1.1378,6,5
+2,140127,CARLE BROMENN MEDICAL CENTER,NORMAL,IL,Acute Care Hospitals,Hip/knee replacement,1.5827,1.144,6,5
+3,220080,HOLY FAMILY HOSPITAL,METHUEN,MA,Acute Care Hospitals,Hip/knee replacement,1.5658,1.1552,5,5
+4,220073,BROWN UNIVERSITY HEALTH MORTON HOSPITAL,TAUNTON,MA,Acute Care Hospitals,Hip/knee replacement,1.5594,1.1715,5,4
+5,370019,GREAT PLAINS REGIONAL MEDICAL CENTER,ELK CITY,OK,Acute Care Hospitals,Hip/knee replacement,1.5367,1.165,3,1
+6,370025,SAINT FRANCIS HOSPITAL MUSKOGEE,MUSKOGEE,OK,Acute Care Hospitals,Hip/knee replacement,1.5217,1.1196,5,4
+7,100264,HCA FLORIDA OAK HILL HOSPITAL,BROOKSVILLE,FL,Acute Care Hospitals,Hip/knee replacement,1.5196,1.112,6,4
+8,110006,ST MARY'S HOSPITAL,ATHENS,GA,Acute Care Hospitals,Hip/knee replacement,1.5095,1.1239,5,5
+9,100287,GOOD SAMARITAN MEDICAL CENTER,WEST PALM BEACH,FL,Acute Care Hospitals,Hip/knee replacement,1.4908,1.1538,5,5
+10,340040,ECU HEALTH MEDICAL CENTER,GREENVILLE,NC,Acute Care Hospitals,Hip/knee replacement,1.4851,1.1065,6,5
+11,050551,UCI HEALTH - LOS ALAMITOS,LOS ALAMITOS,CA,Acute Care Hospitals,Hip/knee replacement,1.4839,1.1017,5,3
+12,390102,UPMC ST MARGARET,PITTSBURGH,PA,Acute Care Hospitals,Hip/knee replacement,1.482,1.129,4,3
+13,230277,HURON VALLEY-SINAI HOSPITAL,COMMERCE TOWNSHIP,MI,Acute Care Hospitals,Hip/knee replacement,1.4802,1.0528,5,1
+14,220105,WINCHESTER HOSPITAL,WINCHESTER,MA,Acute Care Hospitals,Hip/knee replacement,1.4794,1.2212,5,5
+15,450104,GUADALUPE REGIONAL MEDICAL CENTER,SEGUIN,TX,Acute Care Hospitals,Hip/knee replacement,1.4782,1.1233,5,4
+16,450587,HENDRICK MEDICAL CENTER BROWNWOOD,BROWNWOOD,TX,Acute Care Hospitals,Hip/knee replacement,1.4337,1.0534,5,1
+17,100126,HCA FLORIDA PASADENA HOSPITAL A PART OF HCA FLORID,SAINT PETERSBURG,FL,Acute Care Hospitals,Hip/knee replacement,1.4314,1.0788,5,4
+18,050300,PROVIDENCE ST MARY MEDICAL CENTER,APPLE VALLEY,CA,Acute Care Hospitals,Hip/knee replacement,1.427,1.0935,5,3
+19,050030,OROVILLE HOSPITAL,OROVILLE,CA,Acute Care Hospitals,Pneumonia,1.4255,1.2484,5,5
+20,310038,ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL,NEW BRUNSWICK,NJ,Acute Care Hospitals,Coronary artery bypass graft surgery,1.4237,1.1265,6,4
+21,170185,SAINT LUKE'S SOUTH HOSPITAL,OVERLAND PARK,KS,Acute Care Hospitals,Hip/knee replacement,1.4205,1.0664,5,2
+22,260179,ST LUKES HOSPITAL,CHESTERFIELD,MO,Acute Care Hospitals,Hip/knee replacement,1.4192,1.0376,6,3
+23,140082,LOUIS A WEISS MEMORIAL HOSPITAL,CHICAGO,IL,Acute Care Hospitals,Hip/knee replacement,1.4155,1.1012,5,4
+24,370094,SSM HEALTH ST ANTHONY HOSPITAL - MIDWEST,MIDWEST CITY,OK,Acute Care Hospitals,Hip/knee replacement,1.4128,1.1295,5,4
+25,050764,SHASTA REGIONAL MEDICAL CENTER,REDDING,CA,Acute Care Hospitals,Hip/knee replacement,1.3938,1.0875,6,5

@@ -1,0 +1,7 @@
+measure_code,condition_name,facilities,reported,suppressed,not_reported,avg_excess_ratio,penalized,penalty_rate
+AMI,Heart attack,3055,1736,496,1319,1.0018,862,0.4965
+CABG,Coronary artery bypass graft surgery,3055,878,515,2177,1.0018,438,0.4989
+COPD,Chronic obstructive pulmonary disease,3055,2323,778,732,1.0011,1097,0.4722
+HF,Heart failure,3055,2621,305,434,1.0014,1282,0.4891
+HIP-KNEE,Hip/knee replacement,3055,1447,1194,1608,1.004,693,0.4789
+PN,Pneumonia,3055,2715,395,340,1.0015,1271,0.4681
