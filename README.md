@@ -103,13 +103,19 @@ Each view in `sql/views/` answers one dashboard question. `src/export_views.py` 
 
 ## Dashboard
 
-The Power BI report (`dashboard/readmission_dashboard.pbix`) has three pages: a national overview by condition, a state map, and hospital-level detail.
+The Power BI report (`dashboard/readmission_dashboard.pbix`) reads the CSVs in `dashboard/data/`, so it opens on a machine that has no database.
 
-<!-- Screenshots: uncomment after adding the images
+**National.** Totals, the average ratio and penalty rate per condition, and how much usable data each condition has. Hip/knee and bypass surgery are mostly suppressed or unreported.
+
 ![National overview](docs/screenshots/national.png)
-![States](docs/screenshots/states.png)
-![Facilities](docs/screenshots/facilities.png)
--->
+
+**States.** Share of results above 1.0 by state, alongside result counts so thinly covered states are obvious.
+
+![States by penalty rate](docs/screenshots/states.png)
+
+**Facilities.** The 25 highest ratios nationally, and every result above 1.0, filterable by condition and state.
+
+![Facility detail](docs/screenshots/facilities.png)
 
 ## Key findings
 
